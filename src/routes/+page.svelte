@@ -66,7 +66,7 @@
                                           </a>
                                        </div>
                                     </h3>
-                                    <p class="mt-2 text-sm leading-normal">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel ipsum id mi semper hendrerit. Quisque tempus mi at nunc mattis, sit amet pretium enim malesuada. Phasellus eu libero eu arcu facilisis eleifend sed sed purus. Donec ac eros non felis pharetra ultricies. Suspendisse eu lobortis erat. Vivamus fringilla nec ante at pellentesque. Nullam ultricies semper ligula, at posuere sapien placerat ac. Pellentesque vulputate eros erat, at laoreet purus rhoncus nec.</p>
+                                    <p class="mt-2 text-sm leading-normal">As a full stack developer, on PRAPay -- our online portal allows individuals to review their non-performing loan portfolios to start on their debt recovery journey. I have brought empathy in assisting our users in creating new features and redesigning our site so our customers can start their debt recovery journey. During my time here, I have also conducted A/B testing, implemented multi-factor authentication, ACH validation and orchestrated production builds and deployments in Team Foundation Server.</p>
                                     <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                                         <li class="mr-1.5 mt-2">
                                             <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">.NET Framework</div>
@@ -93,14 +93,14 @@
                            <li class="mb-12">
                             <div class="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
                                <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
-                               <header class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2" aria-label="2021 to Present">2021 — Present</header>
+                               <header class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2" aria-label="2019 to 2022">2019 — 2022</header>
                                <div class="z-10 sm:col-span-6">
                                   <h3 class="font-medium leading-snug text-slate-200">
                                      <div>
-                                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://us.mullenlowe.com/" target="_blank" rel="noreferrer noopener" aria-label="Creative Technologist Co-op at MullenLowe U.S. (opens in a new tab)">
+                                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://nguyentrav.com/" target="_blank" rel="noreferrer noopener" aria-label="Travis Nguyen (opens in a new tab)">
                                            <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                                            <span>
-                                              Full Stack Developer · Portfolio Recovery Associates
+                                              Full Stack Developer · Freelance
                                               <span class="inline-block">
                                                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
                                                     <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
@@ -110,14 +110,19 @@
                                         </a>
                                      </div>
                                   </h3>
-                                  <p class="mt-2 text-sm leading-normal">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel ipsum id mi semper hendrerit. Quisque tempus mi at nunc mattis, sit amet pretium enim malesuada. Phasellus eu libero eu arcu facilisis eleifend sed sed purus. Donec ac eros non felis pharetra ultricies. Suspendisse eu lobortis erat. Vivamus fringilla nec ante at pellentesque. Nullam ultricies semper ligula, at posuere sapien placerat ac. Pellentesque vulputate eros erat, at laoreet purus rhoncus nec.</p>
+                                  <p class="mt-2 text-sm leading-normal">Led development of website and brand redesign for a local Vietnamese restaurant. Began by conducting research on the targeted audience utilizing user-centered design methodologies such as user personas, storyboards, usability scenarios and heuristic evaluations. While working closely with the client and designer, establishing a strong relationship throughout the project lifecycle. After countless brainstorming sessions with my client, the vision was brought to life by teaching myself Sketch; creating the wireframe using a modern mobile-first strategy. After multiple iterations, translated the user interface mockups and wireframes into responsive and interactive components. I strived for an extremely lightweight website that was easily accessible for all demographics and smartphones. Leading to the optimization of the site's performance to a Google PageSpeed score of 100/100. In the end, we successfully created a rebranded face for the restaurant to attract more customers. </p>
+                                  <ul class="mt-2 flex flex-wrap" aria-label="Related links">
+                                    <li class="mr-4">
+                                       <a class="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300" href="https://ricepaper-tasteofvietnam.com/" target="_blank" rel="noreferrer noopener" aria-label="Rice Paper (opens in a new tab)">
+                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="mr-1 h-3 w-3" aria-hidden="true">
+                                             <path d="M12.232 4.232a2.5 2.5 0 013.536 3.536l-1.225 1.224a.75.75 0 001.061 1.06l1.224-1.224a4 4 0 00-5.656-5.656l-3 3a4 4 0 00.225 5.865.75.75 0 00.977-1.138 2.5 2.5 0 01-.142-3.667l3-3z"></path>
+                                             <path d="M11.603 7.963a.75.75 0 00-.977 1.138 2.5 2.5 0 01.142 3.667l-3 3a2.5 2.5 0 01-3.536-3.536l1.225-1.224a.75.75 0 00-1.061-1.06l-1.224 1.224a4 4 0 105.656 5.656l3-3a4 4 0 00-.225-5.865z"></path>
+                                          </svg>
+                                          <span>Rice Paper</span>
+                                       </a>
+                                    </li>
+                                 </ul>
                                   <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
-                                      <li class="mr-1.5 mt-2">
-                                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">.NET Framework</div>
-                                       </li>
-                                       <li class="mr-1.5 mt-2">
-                                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Vue.js</div>
-                                       </li>
                                      <li class="mr-1.5 mt-2">
                                         <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">HTML</div>
                                      </li>
@@ -135,49 +140,110 @@
                             </div>
                          </li>
                          <li class="mb-12">
-                            <div class="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
-                               <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
-                               <header class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2" aria-label="2021 to Present">2021 — Present</header>
-                               <div class="z-10 sm:col-span-6">
-                                  <h3 class="font-medium leading-snug text-slate-200">
-                                     <div>
-                                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://us.mullenlowe.com/" target="_blank" rel="noreferrer noopener" aria-label="Creative Technologist Co-op at MullenLowe U.S. (opens in a new tab)">
-                                           <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
-                                           <span>
-                                              Full Stack Developer · Portfolio Recovery Associates<!-- --> 
-                                              <span class="inline-block">
-                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
-                                                    <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
-                                                 </svg>
-                                              </span>
-                                           </span>
-                                        </a>
-                                     </div>
-                                  </h3>
-                                  <p class="mt-2 text-sm leading-normal">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel ipsum id mi semper hendrerit. Quisque tempus mi at nunc mattis, sit amet pretium enim malesuada. Phasellus eu libero eu arcu facilisis eleifend sed sed purus. Donec ac eros non felis pharetra ultricies. Suspendisse eu lobortis erat. Vivamus fringilla nec ante at pellentesque. Nullam ultricies semper ligula, at posuere sapien placerat ac. Pellentesque vulputate eros erat, at laoreet purus rhoncus nec.</p>
-                                  <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
+                           <div class="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
+                              <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
+                              <header class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2" aria-label="2017 to 2021">2017 — 2021</header>
+                              <div class="z-10 sm:col-span-6">
+                                 <h3 class="font-medium leading-snug text-slate-200">
+                                    <div>
+                                       <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.boozallen.com/" target="_blank" rel="noreferrer noopener" aria-label="Booz Allen (opens in a new tab)">
+                                          <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
+                                          <span>
+                                             Systems Engineer · Booz Allen Hamilton
+                                             <span class="inline-block">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
+                                                   <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
+                                                </svg>
+                                             </span>
+                                          </span>
+                                       </a>
+                                    </div>
+                                 </h3>
+                                 <p class="mt-2 text-sm leading-normal">Our team supports the firm's Exchange environment, impacting over 25,000 employees. We collaborated with the Security Services Team to develop a web app to facilitate external threats by quarantining emails for threat identification and risk analysis. Most recently, we created an alert feature for Deltek's management time system to identify and process $1.5 million of project hours. I have also created a simple web app for our firm to organize their email lists, resulting in over 6,000 lists audited. Deployed process automation scripts with PowerShell and Microsoft Graph REST API, for migrating contractor mailboxes to the cloud to automating mobile device wipes during emergency terminations. Additionally, I have taken initiatives on providing end user support, diligently chasing down issues to bring them to a successful conclusion, resolving over 800 incident tickets per year. Including, troubleshooting complex mail flow issues between AWS interconnected systems and email authentication protocols using IronPorts, Proofpoint and Splunk. Also assisted in the Investigations with law department in containing of data spills, closing over 100 cases.</p>
+                                 <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
+                                     <li class="mr-1.5 mt-2">
+                                         <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PowerShell</div>
+                                      </li>
                                       <li class="mr-1.5 mt-2">
-                                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">.NET Framework</div>
-                                       </li>
-                                       <li class="mr-1.5 mt-2">
-                                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Vue.js</div>
-                                       </li>
+                                         <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Exchange</div>
+                                      </li>
+                                      <li class="mr-1.5 mt-2">
+                                       <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Power BI</div>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+                        </li>
+                        <li class="mb-12">
+                           <div class="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
+                              <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
+                              <header class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2" aria-label="Summer 2016">Summer 2016</header>
+                              <div class="z-10 sm:col-span-6">
+                                 <h3 class="font-medium leading-snug text-slate-200">
+                                    <div>
+                                       <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.boozallen.com/" target="_blank" rel="noreferrer noopener" aria-label="Booz Allen (opens in a new tab)">
+                                          <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
+                                          <span>
+                                             Exchange Systems Admin Intern · Booz Allen Hamilton
+                                             <span class="inline-block">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
+                                                   <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
+                                                </svg>
+                                             </span>
+                                          </span>
+                                       </a>
+                                    </div>
+                                 </h3>
+                                 <p class="mt-2 text-sm leading-normal">During my time interning for the Enterprise Email Services Team, I assisted in the migration of user mailboxes to Microsoft's cloud environment. I also took ownership of cleaning and organizing over 1000 email distribution lists. Furthermore, created documentation for processes that increased efficiency and productivity of the Support team</p>
+                                 <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                                      <li class="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">HTML</div>
-                                     </li>
+                                         <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PowerShell</div>
+                                      </li>
+                                      <li class="mr-1.5 mt-2">
+                                         <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Exchange</div>
+                                      </li>
+                                      <li class="mr-1.5 mt-2">
+                                       <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">SharePoint</div>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+                        </li>
+                        <li class="mb-12">
+                           <div class="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
+                              <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
+                              <header class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2" aria-label="Summer 2015">Summer 2015</header>
+                              <div class="z-10 sm:col-span-6">
+                                 <h3 class="font-medium leading-snug text-slate-200">
+                                    <div>
+                                       <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.boozallen.com/" target="_blank" rel="noreferrer noopener" aria-label="Booz Allen (opens in a new tab)">
+                                          <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
+                                          <span>
+                                             Software Tester Intern · Booz Allen Hamilton
+                                             <span class="inline-block">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
+                                                   <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
+                                                </svg>
+                                             </span>
+                                          </span>
+                                       </a>
+                                    </div>
+                                 </h3>
+                                 <p class="mt-2 text-sm leading-normal">As an intern of the Enterprise Solutions Group, I converted the test environment from manual to automated test process, streamlining 90% of tests cases. Established a test platform by writing automated unit and integration test cases to help ensure old and new applications are properly tested when applications are deployed. Collaborated with stakeholders to formulate requirements and user stories and worked with development team to identity and address production defects during daily stand up meetings. Utilized numerous open source tools such as Selenium, TestNG, JMeter, and BlazeRunner, saving company costs. </p>
+                                 <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                                      <li class="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">CSS</div>
-                                     </li>
-                                     <li class="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">JavaScript</div>
-                                     </li>
-                                     <li class="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">jQuery</div>
-                                     </li>
-                                  </ul>
-                               </div>
-                            </div>
-                         </li>
+                                         <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Java</div>
+                                      </li>
+                                      <li class="mr-1.5 mt-2">
+                                         <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Selenium</div>
+                                      </li>
+                                      <li class="mr-1.5 mt-2">
+                                       <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Blazemeter</div>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+                        </li>
                         </ol>
                         <div class="mt-12">
                            <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold text-slate-200 group/link text-base" href="/resume.pdf" target="_blank" rel="noreferrer noopener" aria-label="View Full Résumé (opens in a new tab)">
@@ -194,7 +260,8 @@
                         </div>
                      </div>
                 </section>
-                <section id="projects" class="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="Personal projects">     
+                <section id="projects" class="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="Personal projects">   
+                    <div></div>
                 </section>
                 <footer></footer>
             </main>
