@@ -5,8 +5,10 @@
 
 
 <body class="bg-emerald-950 text-slate-300 leading-relaxed antialiased selection:bg-violet-300 selection:text-violet-900">
-   <div data-spotlight>
-          <div class="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-16 lg:py-0">
+   <div class="relative" data-spotlight>
+      <div class="pointer-events-none fixed inset-0 z-80"></div>
+
+      <div class="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-16 lg:py-0">
             <div class="lg:flex lg:justify-between lg:gap-4">
             <header class="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24">
                 <div>
@@ -41,12 +43,18 @@
             </header>
         
             <main class="pt-24 lg:w-[60%] lg:py-24"> 
-                <section id="about" class="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="About me">
+                <section id="about" class="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="About">
+                  <div class="sticky top-0 z-20 -mx-6 mb-4 w-screen px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
+                     <h2 class="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only">About</h2>
+                  </div>  
                     <div>
                         <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel ipsum id mi semper hendrerit. Quisque tempus mi at nunc mattis, sit amet pretium enim malesuada. Phasellus eu libero eu arcu facilisis eleifend sed sed purus. Donec ac eros non felis pharetra ultricies. Suspendisse eu lobortis erat. Vivamus fringilla nec ante at pellentesque. Nullam ultricies semper ligula, at posuere sapien placerat ac. Pellentesque vulputate eros erat, at laoreet purus rhoncus nec.</p>
                     </div>
                 </section>
                 <section id="experience" class="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="Work experience">
+                  <div class="sticky top-0 z-20 -mx-6 mb-4 w-screen px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
+                     <h2 class="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only">Experience</h2>
+                  </div>  
                     <div>
                         <ol class="group/list">
                            <li class="mb-12">
@@ -264,7 +272,7 @@
                      </div>
                 </section>
                 <section id="projects" class="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="Personal projects">   
-                  <div class="sticky top-0 z-20 -mx-6 mb-4 w-screen bg-emerald-950/75 px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
+                  <div class="sticky top-0 z-20 -mx-6 mb-4 w-screen px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
                      <h2 class="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only">Projects</h2>
                   </div>  
                   <div>
@@ -321,8 +329,7 @@
                 </footer>
             </main>
         </div> 
-    </div>
-  
+    </div>  
 </body>
 
 <script lang="ts">
