@@ -36,7 +36,9 @@ class Spotlight {
         this.cards.forEach((card) => {
           const cardX = -(card.getBoundingClientRect().left - rect.left) + this.mouse.x;
           const cardY = -(card.getBoundingClientRect().top - rect.top) + this.mouse.y;
-          card.style.setProperty('background', `radial-gradient(600px at ${cardX}px ${cardY}px, rgba(6, 95, 70, .15), transparent 50%)`)
+          //card.style.setProperty('background', `radial-gradient(600px at ${cardX}px ${cardY}px, rgba(0,44,34, .1), transparent 60%)`)
+          card.style.setProperty('background', `radial-gradient(600px at ${cardX}px ${cardY}px, rgba(124, 58, 237, .25), transparent 10%)`)
+
         });
       }
     }
