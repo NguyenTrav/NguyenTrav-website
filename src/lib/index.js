@@ -55,3 +55,101 @@ class Spotlight {
   spotlights.forEach((spotlight) => {
     new Spotlight(spotlight);
   });}
+
+
+
+// export function navScroll() {
+//   const observer = new IntersectionObserver((entries) => {
+//     entries.forEach((entry) => {
+//         //console.log(entry)
+//         if (entry.isIntersecting) {
+//             //entry.target.classList.add('active');
+//             navLink?.classList.add('active');
+//             console.log("in view");
+//             console.log(entry.target);
+//             //console.log(navLink);
+//         } else {
+//             //entry.target.classList.remove('active')
+//             navLink?.classList.remove('active');
+//             console.log("out view");
+
+//             console.log(entry.target);
+
+//             // console.log(navLink);
+
+
+//         }
+//     })
+// })
+
+//   const section = document.querySelectorAll('section');
+//   const navLink = document.querySelector('.nav-indicator2');
+
+//   section.forEach((element) => observer.observe(element));
+
+// }
+
+export function navScroll() {
+
+  const sections = document.querySelectorAll('section');
+  const config = {
+    rootMargin: '-50px 0px -55%',
+    threshold: 0.1
+  };
+
+  let observer = new IntersectionObserver(function (entries, self) {
+    let mostVisibleSection = null;
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        if (!mostVisibleSection || entry.intersectionRatio > mostVisibleSection.intersectionRatio) {
+          mostVisibleSection = entry;
+        }
+      }
+    });
+
+    if (mostVisibleSection) {
+      intersectionHandler(mostVisibleSection);
+    }
+  }, config);
+
+  sections.forEach(section => {
+    observer.observe(section);
+  });
+
+  function intersectionHandler(entry) {
+    const id = entry.target.id;
+
+    // Remove hover from the currently active link
+    const currentlyActive = document.querySelector('nav ul li a.hover');
+    if (currentlyActive) {
+      currentlyActive.classList.remove('hover');
+      //console.log("removed hover to", currentlyActive);
+
+    }
+
+    // Add hover to the link corresponding to the most visible section
+    const shouldBeActive = document.querySelector('nav ul li a[data-ref="' + id + '"]');
+    if (shouldBeActive) {
+      shouldBeActive.classList.add('hover');
+      console.log("added hover to", shouldBeActive);
+    }
+  }
+
+  // Scroll behavior
+  document.querySelectorAll('nav ul li a').forEach(link => {
+    link.addEventListener('click', (e) => {
+      e.preventDefault();
+      // @ts-ignore
+      const targetId = link.getAttribute('href').substring(1);
+      const targetElement = document.getElementById(targetId);
+
+      // Scroll the section into view, making sure it's at the top
+      // @ts-ignore
+      targetElement.scrollIntoView({ 
+        behavior: 'smooth', 
+        block: 'start' 
+      });
+    });
+  });
+
+}
