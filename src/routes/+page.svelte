@@ -1,5 +1,4 @@
 <head>
-   
    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
      <style> 
@@ -24,7 +23,6 @@
    <div class="relative cursor-none" data-spotlight>
       <div class="pointer-events-none fixed inset-0 z-30 transition duration-300 lg:absolute"></div>
       <div>
-
          <div class="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-16 lg:py-0">
             <!-- <section class="">
                <img class="mx-auto h-screen" src="./src/lib/assets/aurora_vertical.jpeg" alt="temp"/>
@@ -34,21 +32,21 @@
                   <div>
                      <h1 class="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">Travis Nguyen</h1>
                      <h2 class="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">Full Stack Developer</h2>
-                     <p class="mt-4 max-w-xs leading-normal">I build accessible, pixel-perfect digital experiences for the web.</p>
+                     <p class="mt-4 max-w-xs leading-normal">I build accessible digital experiences for the web.</p>
                      <nav class="nav hidden lg:block" aria-label="In-page jump links">
                            <ul class="mt-16 w-max">
                               <li>
-                                 <a id="about" class="nav-indicator group flex items-center py-3" href="#about-screen" data-ref="about-screen">
+                                 <a id="about-nav" class="nav-indicator group flex items-center py-3" href="#about" data-ref="about">
                                  <span class="nav-dash mr-4 h-px w-8 bg-slate-600 transition-all group-hover:w-16 group-hover:bg-slate-200 group-focus-visible:w-16 group-focus-visible:bg-slate-200 motion-reduce:transition-none"></span>
                                  <span class="nav-text text-xs font-bold uppercase tracking-widest text-slate-500 group-hover:text-slate-200 group-focus-visible:text-slate-200">About</span></a>
                               </li>
                               <li>
-                                 <a id="experience" class="nav-indicator group flex items-center py-3" href="#experience-screen" data-ref="experience-screen">
+                                 <a id="experience-nav" class="nav-indicator group flex items-center py-3" href="#experience" data-ref="experience">
                                     <span class="nav-dash mr-4 h-px w-8 bg-slate-600 transition-all group-hover:w-16 group-hover:bg-slate-200 group-focus-visible:w-16 group-focus-visible:bg-slate-200 motion-reduce:transition-none"></span>
                                     <span class="nav-text text-xs font-bold uppercase tracking-widest text-slate-500 group-hover:text-slate-200 group-focus-visible:text-slate-200">Experience</span></a>
                               </li>
                               <li>
-                                 <a id="projects" class=" nav-indicator group flex items-center py-3" href="#projects-screen" data-ref="projects-screen">
+                                 <a id="projects-nav" class=" nav-indicator group flex items-center py-3" href="#projects" data-ref="projects">
                                     <span class="nav-dash mr-4 h-px w-8 bg-slate-600 transition-all group-hover:w-16 group-hover:bg-slate-200 group-focus-visible:w-16 group-focus-visible:bg-slate-200 motion-reduce:transition-none"></span>
                                     <span class="nav-text text-xs font-bold uppercase tracking-widest text-slate-500 group-hover:text-slate-200 group-focus-visible:text-slate-200">Projects</span></a>
                               </li>
@@ -75,15 +73,22 @@
                </header>
          
                <main class="pt-24 lg:w-[52%] lg:py-24"> 
-                  <section id="about-screen" class="nav-scroll mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="About">
+                  <section id="about" class="nav-scroll mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="About">
                      <div class="sticky top-0 z-20 -mx-6 mb-4 w-screen px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
                         <h2 class="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only">About</h2>
                      </div>  
                      <div>
-                           <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel ipsum id mi semper hendrerit. Quisque tempus mi at nunc mattis, sit amet pretium enim malesuada. Phasellus eu libero eu arcu facilisis eleifend sed sed purus. Donec ac eros non felis pharetra ultricies. Suspendisse eu lobortis erat. Vivamus fringilla nec ante at pellentesque. Nullam ultricies semper ligula, at posuere sapien placerat ac. Pellentesque vulputate eros erat, at laoreet purus rhoncus nec.</p>
+                        <p class="mb-4">
+                           I'm a developer that draws inspiration from the people around me, films, and art. The storytelling, cinematography, and emotional depth of cinema have shaped my approach to development and design. 
+                           I thrive in environments where art meets strategy, and I believe in crafting an accessible user experience that resonate with audiences. 
+                        </p>  
+                        <p class="mb-4">
+                           My time as a full stack developer, designer and systems engineer bring a unique perspective in addressing human problems through digital mediums. Whether through bold concepts or intricate details, my work reflects a passion for creativity and an understanding of the power of narrative. 
+                           By drawing from the arts, I bring fresh, imaginative ideas to every project I take on.
+                        </p>Catch me at the theatre watching the latest A24 movie, exploring a local art gallery with my film camera, or bouldering to get over my fear of heights.
                      </div>
                   </section>
-                  <section id="experience-screen" class="nav-scroll mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="Work experience">
+                  <section id="experience" class="nav-scroll mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="Work experience">
                      <div class="sticky top-0 z-20 -mx-6 mb-4 w-screen px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
                         <h2 class="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only">Experience</h2>
                      </div>  
@@ -95,19 +100,17 @@
                                     <header class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2" aria-label="2021 to Present">2021 — Present</header>
                                     <div class="z-10 sm:col-span-6">
                                        <h3 class="font-medium leading-snug text-slate-200">
-                                          <div>
-                                             <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://www.pragroup.com/" target="_blank" rel="noreferrer noopener" aria-label="Portfolio Recovery Associates (opens in a new tab)">
-                                                <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
-                                                <span>
-                                                   Full Stack Developer · PRA Group<!-- --> 
-                                                   <span class="inline-block">
-                                                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
-                                                         <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
-                                                      </svg>
-                                                   </span>
+                                          <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://www.pragroup.com/" target="_blank" rel="noreferrer noopener" aria-label="Portfolio Recovery Associates (opens in a new tab)">
+                                             <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
+                                             <span>
+                                                Full Stack Developer · PRA Group<!-- --> 
+                                                <span class="inline-block">
+                                                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
+                                                      <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
+                                                   </svg>
                                                 </span>
-                                             </a>
-                                          </div>
+                                             </span>
+                                          </a>
                                        </h3>
                                        <p class="mt-2 text-sm leading-normal">As a full stack developer, on PRAPay -- our online portal allows individuals to review their non-performing loan portfolios to start on their debt recovery journey. I have brought empathy in assisting our users in creating new features and redesigning our site so our customers can start their debt recovery journey. During my time here, I have also conducted A/B testing, implemented multi-factor authentication, ACH validation and orchestrated production builds and deployments in Team Foundation Server.</p>
                                        <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
@@ -139,19 +142,17 @@
                                  <header class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2" aria-label="2019 to 2022">2019 — 2022</header>
                                  <div class="z-10 sm:col-span-6">
                                     <h3 class="font-medium leading-snug text-slate-200">
-                                       <div>
-                                          <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://nguyentrav.com/" target="_blank" rel="noreferrer noopener" aria-label="Travis Nguyen (opens in a new tab)">
-                                             <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
-                                             <span>
-                                                Full Stack Developer · Freelance
-                                                <span class="inline-block">
-                                                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
-                                                      <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
-                                                   </svg>
-                                                </span>
+                                       <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://nguyentrav.com/" target="_blank" rel="noreferrer noopener" aria-label="Travis Nguyen (opens in a new tab)">
+                                          <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
+                                          <span>
+                                             Full Stack Developer · Freelance
+                                             <span class="inline-block">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
+                                                   <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
+                                                </svg>
                                              </span>
-                                          </a>
-                                       </div>
+                                          </span>
+                                       </a>
                                     </h3>
                                     <p class="mt-2 text-sm leading-normal">Led development of website and brand redesign for a local Vietnamese restaurant. Began by conducting research on the targeted audience utilizing user-centered design methodologies such as user personas, storyboards, usability scenarios and heuristic evaluations. While working closely with the client and designer, establishing a strong relationship throughout the project lifecycle. After countless brainstorming sessions with my client, the vision was brought to life by teaching myself Sketch; creating the wireframe using a modern mobile-first strategy. After multiple iterations, translated the user interface mockups and wireframes into responsive and interactive components. I strived for an extremely lightweight website that was easily accessible for all demographics and smartphones. Leading to the optimization of the site's performance to a Google PageSpeed score of 100/100. In the end, we successfully created a rebranded face for the restaurant to attract more customers. </p>
                                     <ul class="mt-2 flex flex-wrap" aria-label="Related links">
@@ -188,19 +189,17 @@
                                  <header class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2" aria-label="2017 to 2021">2017 — 2021</header>
                                  <div class="z-10 sm:col-span-6">
                                     <h3 class="font-medium leading-snug text-slate-200">
-                                       <div>
-                                          <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://www.boozallen.com/" target="_blank" rel="noreferrer noopener" aria-label="Booz Allen (opens in a new tab)">
-                                             <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
-                                             <span>
-                                                Systems Engineer · Booz Allen Hamilton
-                                                <span class="inline-block">
-                                                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
-                                                      <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
-                                                   </svg>
-                                                </span>
+                                       <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://www.boozallen.com/" target="_blank" rel="noreferrer noopener" aria-label="Booz Allen (opens in a new tab)">
+                                          <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
+                                          <span>
+                                             Systems Engineer · Booz Allen Hamilton
+                                             <span class="inline-block">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
+                                                   <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
+                                                </svg>
                                              </span>
-                                          </a>
-                                       </div>
+                                          </span>
+                                       </a>
                                     </h3>
                                     <p class="mt-2 text-sm leading-normal">Our team supports the firm's Exchange environment, impacting over 25,000 employees. We collaborated with the Security Services Team to develop a web app to facilitate external threats by quarantining emails for threat identification and risk analysis. Most recently, we created an alert feature for Deltek's management time system to identify and process $1.5 million of project hours. I have also created a simple web app for our firm to organize their email lists, resulting in over 6,000 lists audited. Deployed process automation scripts with PowerShell and Microsoft Graph REST API, for migrating contractor mailboxes to the cloud to automating mobile device wipes during emergency terminations. Additionally, I have taken initiatives on providing end user support, diligently chasing down issues to bring them to a successful conclusion, resolving over 800 incident tickets per year. Including, troubleshooting complex mail flow issues between AWS interconnected systems and email authentication protocols using IronPorts, Proofpoint and Splunk. Also assisted in the Investigations with law department in containing of data spills, closing over 100 cases.</p>
                                     <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
@@ -223,19 +222,17 @@
                                  <header class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2" aria-label="Summer 2016">Summer 2016</header>
                                  <div class="z-10 sm:col-span-6">
                                     <h3 class="font-medium leading-snug text-slate-200">
-                                       <div>
-                                          <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://www.boozallen.com/" target="_blank" rel="noreferrer noopener" aria-label="Booz Allen (opens in a new tab)">
-                                             <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
-                                             <span>
-                                                Exchange Systems Admin Intern · Booz Allen Hamilton
-                                                <span class="inline-block">
-                                                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
-                                                      <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
-                                                   </svg>
-                                                </span>
+                                       <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://www.boozallen.com/" target="_blank" rel="noreferrer noopener" aria-label="Booz Allen (opens in a new tab)">
+                                          <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
+                                          <span>
+                                             Exchange Systems Admin Intern · Booz Allen Hamilton
+                                             <span class="inline-block">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
+                                                   <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
+                                                </svg>
                                              </span>
-                                          </a>
-                                       </div>
+                                          </span>
+                                       </a>
                                     </h3>
                                     <p class="mt-2 text-sm leading-normal">During my time interning for the Enterprise Email Services Team, I assisted in the migration of user mailboxes to Microsoft's cloud environment. I also took ownership of cleaning and organizing over 1000 email distribution lists. Furthermore, created documentation for processes that increased efficiency and productivity of the Support team</p>
                                     <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
@@ -258,19 +255,17 @@
                                  <header class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2" aria-label="Summer 2015">Summer 2015</header>
                                  <div class="z-10 sm:col-span-6">
                                     <h3 class="font-medium leading-snug text-slate-200">
-                                       <div>
-                                          <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://www.boozallen.com/" target="_blank" rel="noreferrer noopener" aria-label="Booz Allen (opens in a new tab)">
-                                             <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
-                                             <span>
-                                                Software Tester Intern · Booz Allen Hamilton
-                                                <span class="inline-block">
-                                                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
-                                                      <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
-                                                   </svg>
-                                                </span>
+                                       <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://www.boozallen.com/" target="_blank" rel="noreferrer noopener" aria-label="Booz Allen (opens in a new tab)">
+                                          <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
+                                          <span>
+                                             Software Tester Intern · Booz Allen Hamilton
+                                             <span class="inline-block">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
+                                                   <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
+                                                </svg>
                                              </span>
-                                          </a>
-                                       </div>
+                                          </span>
+                                       </a>
                                     </h3>
                                     <p class="mt-2 text-sm leading-normal">As an intern of the Enterprise Solutions Group, I converted the test environment from manual to automated test process, streamlining 90% of tests cases. Established a test platform by writing automated unit and integration test cases to help ensure old and new applications are properly tested when applications are deployed. Collaborated with stakeholders to formulate requirements and user stories and worked with development team to identity and address production defects during daily stand up meetings. Utilized numerous open source tools such as Selenium, TestNG, JMeter, and BlazeRunner, saving company costs. </p>
                                     <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
@@ -302,7 +297,7 @@
                            </div>
                         </div>
                   </section>
-                  <section id="projects-screen" class="nav-scroll mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="Personal projects">   
+                  <section id="projects" class="nav-scroll mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="Personal projects">   
                      <div class="sticky top-0 z-20 -mx-6 mb-4 w-screen px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
                         <h2 class="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only">Projects</h2>
                      </div>  
@@ -352,7 +347,6 @@
                                  <img alt="" width="200" height="48"  class="aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1" style="color:transparent" src="https://placecats.com/300/200">
                               </div>
                            </li>
-                           <div></div>
                         </ul>
                      </div>              
                   </section>
@@ -368,7 +362,6 @@
 
 <script lang="ts">
 	import { onMount } from "svelte";
-
    onMount(async () => {
 
       const {spotlight} = await import('$lib')
