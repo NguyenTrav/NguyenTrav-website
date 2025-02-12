@@ -32,7 +32,7 @@
                   <div>
                      <h1 class="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">Travis Nguyen</h1>
                      <h2 class="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">Full Stack Developer</h2>
-                     <p class="mt-4 max-w-xs leading-normal">I build user experiences for the web inspired by people, films, and art.</p>
+                     <p class="mt-4 max-w-xs leading-normal">I build user experiences for the web inspired by films, art, and people.</p>
                      <nav class="nav hidden lg:block" aria-label="In-page jump links">
                            <ul class="mt-16 w-max">
                               <li>
@@ -79,12 +79,12 @@
                      </div>  
                      <div>
                         <p class="mb-4">
-                           I'm a developer that draws inspiration from the people around me, films, and art. The storytelling, cinematography, and emotional depth of cinema have shaped my approach to development and design. 
-                           I thrive in environments where art meets strategy, and I believe in crafting an accessible user experience that resonate with audiences. 
+                           I'm a developer that draws inspiration from films, art, and the people around me. The storytelling, cinematography, and emotional depth of movies have shaped my approach to development and design. 
+                           I thrive in environments where art meets strategy, and believe in crafting accessible user experiences that resonate with audiences. 
                         </p>  
                         <p class="mb-4">
-                           My time as a full stack developer, designer and systems engineer bring a unique perspective in addressing human problems through digital mediums. Whether through bold concepts or intricate details, my work reflects a passion for creativity and an understanding of the power of narrative. 
-                           By drawing from the arts, I bring fresh, imaginative ideas to every project I take on.
+                           My time as a full stack developer, designer and systems engineer bring a unique perspective in addressing human problems through digital mediums. 
+                           By drawing from art, I bring fresh, imaginative ideas to every project I take on.
                         </p>Catch me at the theatre watching the latest A24 movie, exploring a local art gallery with my film camera, or bouldering to get over my fear of heights.
                      </div>
                   </section>
@@ -112,7 +112,7 @@
                                              </span>
                                           </a>
                                        </h3>
-                                       <p class="mt-2 text-sm leading-normal">As a full stack developer, on PRAPay -- our online portal allows individuals to review their non-performing loan portfolios to start on their debt recovery journey. I have brought empathy in assisting our users in creating new features and redesigning our site so our customers can start their debt recovery journey. During my time here, I have also conducted A/B testing, implemented multi-factor authentication, ACH validation and orchestrated production builds and deployments in Team Foundation Server.</p>
+                                       <p class="mt-2 text-sm leading-normal">I have the pleasure of designing user experiences that prioritized understanding and respect for individuals facing financial hardship. Built and maintained PRA Pay web app to allow individuals to start their debt recovery journey. The application aimed to reduce stress, offering a more compassionate, supportive experience that encouraged users to take control of their situation. I integrated features that allowed users to set up flexible payment plans seamlessly. Leading the development of adding a digital wallet, A/B testing, multi-factor authentication, ACH bank validation and orchestrated production builds and deployments.</p>
                                        <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                                           <li class="mr-1.5 mt-2">
                                              <div class="flex items-center rounded-full bg-emerald-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300">.NET Framework</div>
@@ -284,14 +284,12 @@
                            </li>
                            </ol>
                            <div class="mt-12">
-                              <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300 font-semibold text-slate-200 group/link text-base" href="/resume.pdf" target="_blank" rel="noreferrer noopener" aria-label="View Full Résumé (opens in a new tab)">
-                                 <span> View Full
-                                    <span class="inline-block">
-                                       Résumé
-                                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
-                                          <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
-                                       </svg>
-                                    </span>
+                              <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300 font-semibold text-slate-200 group/link text-base" href="https://docs.google.com/document/d/e/2PACX-1vSRsjJYiSIw06YDNcuFlFR28zITF4CHRD4yorqXXmuhp3wyHqrfLOjlsIcf9DZMS4OtlfAiIshIDins/pub" target="_blank" rel="noreferrer noopener" aria-label="View Resume (opens in a new tab)">
+                                 <span class="inline-block">
+                                    View Resume
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
+                                       <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
+                                    </svg>
                                  </span>
                               </a>
                            </div>
@@ -320,9 +318,9 @@
                                           </span>
                                        </a>
                                     </h3>
-                                    <p class="mt-2 text-sm leading-normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                    <p class="mt-2 text-sm leading-normal">Recreation of the 1995 electronic game. The game consists of a 5 by 5 grid of lights. When the game begins, the lights randomly turn on. Pressing any of the lights will toggle it and the adjacent lights. The goal of the game is to switch all the lights off.</p>
                                  </div>
-                                 <img alt="" width="200" height="48"  class="aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1" style="color:transparent" src="https://placecats.com/300/200">
+                                 <img alt="Lights Out board" width="200" height="48"  class="aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1" style="color:transparent" src="./src/lib/assets/lights_out.png">
                               </div>
                            </li>
                            <li class="mb-12">
@@ -330,10 +328,10 @@
                                  <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-emerald-950/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                                  <div class="z-10 sm:order-2 sm:col-span-6">
                                     <h3>
-                                       <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://nguyentrav.github.io/lights-out/" target="_blank" rel="noreferrer noopener" aria-label="Lights Out Game (opens in a new tab)">
+                                       <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://nguyentrav.github.io/todo-app/" target="_blank" rel="noreferrer noopener" aria-label="Todo List App(opens in a new tab)">
                                           <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                                           <span>
-                                             Lights Out Game
+                                             To-do List App
                                              <span class="inline-block">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
                                                    <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
@@ -342,19 +340,19 @@
                                           </span>
                                        </a>
                                     </h3>
-                                    <p class="mt-2 text-sm leading-normal">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                    <p class="mt-2 text-sm leading-normal">A simple to-do list app to keep your day organized.</p>
                                  </div>
-                                 <img alt="" width="200" height="48"  class="aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1" style="color:transparent" src="https://placecats.com/300/200">
+                                 <img alt="" width="200" height="48"  class="aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1" style="color:transparent" src="./src/lib/assets/todo_list.png">
                               </div>
                            </li>
                         </ul>
                      </div>              
                   </section>
                   <footer class="max-w-md pb-16 text-sm text-slate-500 sm:pb-0">
-                     <p>Built by Travis Nguyen with <a href="https://svelte.dev/" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Svelte (opens in a new tab)">Svelte</a> and <a href="https://tailwindcss.com/" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Tailwind CSS (opens in a new tab)">Tailwind CSS.</a></p>
-                     <p>Inspired by <a href="https://open.spotify.com/track/3n6ei1V2Qhsi6BhEhm9opS?si=595a6a316bf04db2" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Mirror by Porter Robinson on Spotify (opens in a new tab)">Porter Robinson - Mirror</a>.</p>
+                     <p>Built by Travis Nguyen with <a href="https://svelte.dev/" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Svelte (opens in a new tab)">Svelte</a> and <a href="https://tailwindcss.com/" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Tailwind CSS (opens in a new tab)">Tailwind CSS</a></p>
+                     <p>Design inspired by <a href="https://open.spotify.com/track/3n6ei1V2Qhsi6BhEhm9opS?si=595a6a316bf04db2" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Mirror by Porter Robinson on Spotify (opens in a new tab)">Porter Robinson - Mirror</a></p>
                      <div class="pt-4">
-                        <iframe title="mirror" style="border-radius:12px" src="https://open.spotify.com/embed/track/3n6ei1V2Qhsi6BhEhm9opS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>                     </div>
+                        <iframe title="mirror" style="border-radius:12px" src="https://open.spotify.com/embed/track/3n6ei1V2Qhsi6BhEhm9opS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>                     </div>
                   </footer>
                </main>
             </div> 
