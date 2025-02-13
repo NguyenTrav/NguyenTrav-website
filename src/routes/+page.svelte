@@ -112,7 +112,9 @@
                                              </span>
                                           </a>
                                        </h3>
-                                       <p class="mt-2 text-sm leading-normal">I have the pleasure of designing user experiences that prioritized understanding and respect for individuals facing financial hardship. Built and maintained PRA Pay web app to allow individuals to start their debt recovery journey. The application aimed to reduce stress, offering a more compassionate, supportive experience that encouraged users to take control of their situation. I integrated features that allowed users to set up flexible payment plans seamlessly. Leading the development of adding a digital wallet, A/B testing, multi-factor authentication, ACH bank validation and orchestrated production builds and deployments.</p>
+                                       <p class="mt-2 text-sm leading-normal">
+                                          I had the pleasure of designing user experiences that prioritized understanding and respect for individuals facing financial hardship. Built and maintained PRA Pay web app to allow individuals to start their debt recovery journey. The application aimed to reduce stress, offering a more compassionate, supportive experience that encouraged users to take control of their situation. I developed features that allowed users to set up flexible payment plans seamlessly. Lead the development of adding a digital wallet, A/B testing, multi-factor authentication, ACH bank validation and orchestrated releases.
+                                       </p>
                                        <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                                           <li class="mr-1.5 mt-2">
                                              <div class="flex items-center rounded-full bg-emerald-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300">.NET Framework</div>
@@ -154,7 +156,9 @@
                                           </span>
                                        </a>
                                     </h3>
-                                    <p class="mt-2 text-sm leading-normal">Led development of website and brand redesign for a local Vietnamese restaurant. Began by conducting research on the targeted audience utilizing user-centered design methodologies such as user personas, storyboards, usability scenarios and heuristic evaluations. While working closely with the client and designer, establishing a strong relationship throughout the project lifecycle. After countless brainstorming sessions with my client, the vision was brought to life by teaching myself Sketch; creating the wireframe using a modern mobile-first strategy. After multiple iterations, translated the user interface mockups and wireframes into responsive and interactive components. I strived for an extremely lightweight website that was easily accessible for all demographics and smartphones. Leading to the optimization of the site's performance to a Google PageSpeed score of 100/100. In the end, we successfully created a rebranded face for the restaurant to attract more customers. </p>
+                                    <p class="mt-2 text-sm leading-normal">
+                                       Led a project to consult and redesign a local restaurant's website, enhancing its branding and user experience. I collaborated closely with the client to tell their family story and cultural heritage. Upgrading to modern visual design, accessibility standards, mobile responsiveness, and changing needs of customers during the pandemic. The end result was a website that not only reflected the restaurant’s story but could continue serving its community.                                     
+                                    </p>
                                     <ul class="mt-2 flex flex-wrap" aria-label="Related links">
                                        <li class="mr-4">
                                           <a class="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-green-300 focus-visible:text-green-300" href="https://ricepaper-tasteofvietnam.com/" target="_blank" rel="noreferrer noopener" aria-label="Rice Paper (opens in a new tab)">
@@ -201,13 +205,20 @@
                                           </span>
                                        </a>
                                     </h3>
-                                    <p class="mt-2 text-sm leading-normal">Our team supports the firm's Exchange environment, impacting over 25,000 employees. We collaborated with the Security Services Team to develop a web app to facilitate external threats by quarantining emails for threat identification and risk analysis. Most recently, we created an alert feature for Deltek's management time system to identify and process $1.5 million of project hours. I have also created a simple web app for our firm to organize their email lists, resulting in over 6,000 lists audited. Deployed process automation scripts with PowerShell and Microsoft Graph REST API, for migrating contractor mailboxes to the cloud to automating mobile device wipes during emergency terminations. Additionally, I have taken initiatives on providing end user support, diligently chasing down issues to bring them to a successful conclusion, resolving over 800 incident tickets per year. Including, troubleshooting complex mail flow issues between AWS interconnected systems and email authentication protocols using IronPorts, Proofpoint and Splunk. Also assisted in the Investigations with law department in containing of data spills, closing over 100 cases.</p>
+                                    <p class="mt-2 text-sm leading-normal">
+                                       Our team supported the firm's Exchange environment for over 25,000 employees. I provided critical support by ensuring the stability, performance, and security of the platform. Worked closely with the Security and Law Department to develop a web app to capture external email threats for risk analysis and contain data spills. Built automation scripts using PowerShell and Microsoft Graph REST API to optimize the infrastructure, and troubleshoot issues that arose to minimize downtime, and migrate on-premise users to the cloud.                                    </p>
                                     <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                                        <li class="mr-1.5 mt-2">
                                           <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300">PowerShell</div>
                                        </li>
                                        <li class="mr-1.5 mt-2">
                                           <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300">Exchange</div>
+                                       </li>
+                                       <li class="mr-1.5 mt-2">
+                                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300">Power Apps</div>
+                                       </li>
+                                       <li class="mr-1.5 mt-2">
+                                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300">SharePoint</div>
                                        </li>
                                        <li class="mr-1.5 mt-2">
                                           <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300">Power BI</div>
@@ -225,7 +236,7 @@
                                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://www.boozallen.com/" target="_blank" rel="noreferrer noopener" aria-label="Booz Allen (opens in a new tab)">
                                           <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                                           <span>
-                                             Exchange Systems Admin Intern · Booz Allen Hamilton
+                                             System Admin Intern · Booz Allen Hamilton
                                              <span class="inline-block">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
                                                    <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
@@ -234,7 +245,9 @@
                                           </span>
                                        </a>
                                     </h3>
-                                    <p class="mt-2 text-sm leading-normal">During my time interning for the Enterprise Email Services Team, I assisted in the migration of user mailboxes to Microsoft's cloud environment. I also took ownership of cleaning and organizing over 1000 email distribution lists. Furthermore, created documentation for processes that increased efficiency and productivity of the Support team</p>
+                                    <p class="mt-2 text-sm leading-normal">
+                                       Assisted the Exchange team to migration user mailboxes from on-premise to the cloud. I also organized over 1000 email distribution lists. Furthermore, created documentation for processes that increased efficiency and productivity of our Support team.                                    
+                                    </p>
                                     <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                                        <li class="mr-1.5 mt-2">
                                           <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300">PowerShell</div>
@@ -267,7 +280,8 @@
                                           </span>
                                        </a>
                                     </h3>
-                                    <p class="mt-2 text-sm leading-normal">As an intern of the Enterprise Solutions Group, I converted the test environment from manual to automated test process, streamlining 90% of tests cases. Established a test platform by writing automated unit and integration test cases to help ensure old and new applications are properly tested when applications are deployed. Collaborated with stakeholders to formulate requirements and user stories and worked with development team to identity and address production defects during daily stand up meetings. Utilized numerous open source tools such as Selenium, TestNG, JMeter, and BlazeRunner, saving company costs. </p>
+                                    <p class="mt-2 text-sm leading-normal">
+                                       Converted the manual testing environment to an automated testing framework, significantly saving time and improving efficiency. As a result, we were able to streamline the testing cycle, delivering faster feedback to developers and accelerating the overall development process, all while maintaining a high level of test coverage and quality.                                    </p>
                                     <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                                        <li class="mr-1.5 mt-2">
                                           <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300 ">Java</div>
