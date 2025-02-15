@@ -11,7 +11,6 @@
       .coordinates {
          font-family: "Doto", serif;
          font-optical-sizing: auto;
-         font-weight: 100;
          font-variation-settings:
             "ROND" 0;
       }
@@ -42,7 +41,7 @@
             <div class="bg-red-500 sm:bg-orange-500 md:bg-yellow-500 lg:bg-green-500 xl:bg-teal-500">Media Query</div>
             <img class="mx-auto h-screen block sm:hidden md:block xl:hidden" src="./src/lib/assets/cliffjump.jpeg" alt="cliffjump"/>
             <img class="mx-auto h-screen md:hidden" src="./src/lib/assets/bonsai.jpeg" alt="cliffjump"/>
-            <p class="coordinates">48°27'32"N 122°36'28"W 2024.06.08</p>
+            <p class="coordinates font-thin tracking-tight">48°27'32"N 122°36'28"W 2024.06.08</p>
          </section>
          <div class="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-16 lg:py-0">
             <div class="lg:flex lg:justify-between lg:gap-4">
@@ -384,8 +383,8 @@
                      </div>              
                   </section>
                   <footer class="max-w-md pb-16 text-sm text-slate-500 sm:pb-0">
-                     <p>Built by Travis Nguyen with <a href="https://svelte.dev/" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Svelte (opens in a new tab)">Svelte</a> and <a href="https://tailwindcss.com/" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Tailwind CSS (opens in a new tab)">Tailwind CSS</a></p>
-                     <p>Design inspired by <a href="https://open.spotify.com/track/3n6ei1V2Qhsi6BhEhm9opS?si=595a6a316bf04db2" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Mirror by Porter Robinson on Spotify (opens in a new tab)">Porter Robinson - Mirror</a></p>
+                     <p class="coordinates font-normal tracking-tight">Built by Travis Nguyen with <a href="https://svelte.dev/" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Svelte (opens in a new tab)">Svelte</a> and <a href="https://tailwindcss.com/" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Tailwind CSS (opens in a new tab)">Tailwind CSS</a></p>
+                     <p class="coordinates font-normal tracking-tight">Design inspired by <a href="https://open.spotify.com/track/3n6ei1V2Qhsi6BhEhm9opS?si=595a6a316bf04db2" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Mirror by Porter Robinson on Spotify (opens in a new tab)">Porter Robinson - Mirror</a></p>
                      <div class="pt-4">
                         <iframe title="mirror" style="border-radius:12px" src="https://open.spotify.com/embed/track/3n6ei1V2Qhsi6BhEhm9opS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>                     </div>
                   </footer>
