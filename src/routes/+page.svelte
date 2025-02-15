@@ -2,6 +2,20 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
      <style> 
+     
+      h1, header, p, li, span {
+         font-family: "Inter", serif;
+         font-optical-sizing: auto;
+      }
+
+      .coordinates {
+         font-family: "Doto", serif;
+         font-optical-sizing: auto;
+         font-weight: 100;
+         font-variation-settings:
+            "ROND" 0;
+      }
+
       .nav-indicator.hover {
          .nav-dash {
             background-color: rgb(226 232 240 / var(--tw-bg-opacity, 1));
@@ -15,23 +29,27 @@
             color: rgb(226 232 240 / var(--tw-text-opacity, 1));
          }
       }
-     </style>
 
+     </style>
+     
 </head>
 
 <body class="bg-emerald-950 leading-relaxed text-slate-300 antialiased selection:bg-violet-300 selection:text-violet-900">
    <div class="relative cursor-none" data-spotlight>
       <div class="pointer-events-none fixed inset-0 z-30 transition duration-300 lg:absolute"></div>
       <div>
+         <section>
+            <div class="bg-red-500 sm:bg-orange-500 md:bg-yellow-500 lg:bg-green-500 xl:bg-teal-500">Media Query</div>
+            <img class="mx-auto h-screen block sm:hidden md:block xl:hidden" src="./src/lib/assets/cliffjump.jpeg" alt="cliffjump"/>
+            <img class="mx-auto h-screen md:hidden" src="./src/lib/assets/bonsai.jpeg" alt="cliffjump"/>
+            <p class="coordinates">48°27'32"N 122°36'28"W 2024.06.08</p>
+         </section>
          <div class="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-16 lg:py-0">
-            <!-- <section class="">
-               <img class="mx-auto h-screen" src="./src/lib/assets/aurora_vertical.jpeg" alt="temp"/>
-            </section> -->
             <div class="lg:flex lg:justify-between lg:gap-4">
                <header class="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24">
                   <div>
-                     <h1 class="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">Travis Nguyen</h1>
-                     <h2 class="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">Full Stack Developer</h2>
+                     <h1 class="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl -ml-1"><a href="/">Travis Nguyen</a></h1>                     
+                     <h2 class="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">Full Stack Developer</h2>                     
                      <p class="mt-4 max-w-xs leading-normal">I build user experiences for the web inspired by films, art, and people.</p>
                      <nav class="nav hidden lg:block" aria-label="In-page jump links">
                            <ul class="mt-16 w-max">
@@ -85,7 +103,10 @@
                         <p class="mb-4">
                            My time as a full stack developer, designer and systems engineer bring a unique perspective in addressing human problems through digital mediums. 
                            By drawing from art, I bring fresh, imaginative ideas to every project I take on.
-                        </p>Catch me at the theatre watching the latest A24 movie, exploring a local art gallery with my film camera, or bouldering to get over my fear of heights.
+                        </p>
+                        <p class="mb-4">
+                           Catch me at the theatre watching the latest A24 movie, exploring a local art gallery, traveling with my film camera, or bouldering to get over my fear of heights.
+                        </p>
                      </div>
                   </section>
                   <section id="experience" class="nav-scroll mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="Work experience">
@@ -99,7 +120,7 @@
                                     <div class="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-emerald-950/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                                     <header class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2" aria-label="2021 to Present">2021 — Present</header>
                                     <div class="z-10 sm:col-span-6">
-                                       <h3 class="font-medium leading-snug text-slate-200">
+                                       <h3 class="font-medium leading-snug text-slate-200" style="font-weight:700;">
                                           <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://www.pragroup.com/" target="_blank" rel="noreferrer noopener" aria-label="Portfolio Recovery Associates (opens in a new tab)">
                                              <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                                              <span>
@@ -298,7 +319,7 @@
                            </li>
                            </ol>
                            <div class="mt-12">
-                              <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300 font-semibold text-slate-200 group/link text-base" href="https://docs.google.com/document/d/e/2PACX-1vSRsjJYiSIw06YDNcuFlFR28zITF4CHRD4yorqXXmuhp3wyHqrfLOjlsIcf9DZMS4OtlfAiIshIDins/pub" target="_blank" rel="noreferrer noopener" aria-label="View Resume (opens in a new tab)">
+                              <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300 font-semibold text-slate-200 group/link text-base" href="./src/lib/assets/resume.pdf" target="_blank" rel="noreferrer noopener" aria-label="View Resume (opens in a new tab)">
                                  <span class="inline-block">
                                     View Resume
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
@@ -345,7 +366,7 @@
                                        <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300  group/link text-base" href="https://nguyentrav.github.io/todo-app/" target="_blank" rel="noreferrer noopener" aria-label="Todo List App(opens in a new tab)">
                                           <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                                           <span>
-                                             To-do List App
+                                             Todo List App
                                              <span class="inline-block">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true">
                                                    <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path>
@@ -354,7 +375,7 @@
                                           </span>
                                        </a>
                                     </h3>
-                                    <p class="mt-2 text-sm leading-normal">A simple to-do list app to keep your day organized.</p>
+                                    <p class="mt-2 text-sm leading-normal">A simple todo list app to keep your day organized.</p>
                                  </div>
                                  <img alt="" width="200" height="48"  class="aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1" style="color:transparent" src="./src/lib/assets/todo_list.png">
                               </div>
