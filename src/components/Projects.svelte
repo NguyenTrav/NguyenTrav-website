@@ -1,6 +1,6 @@
 <script>
-   	import todo from "../lib/assets/todo_list.png";
-      import lightsOut from "../lib/assets/lights_out.png";
+   	import todo from "../lib/assets/todo.png";
+      import lightsOut from "../lib/assets/lightsout.png";
 </script>
 
 <section id="projects" class="nav-scroll mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="Personal projects">   
