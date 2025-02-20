@@ -1,0 +1,6 @@
+<footer class="max-w-md pb-16 text-sm text-slate-500 sm:pb-0">
+    <p class="coordinates font-normal tracking-tight">Built by Travis Nguyen with <a href="https://svelte.dev/" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Svelte (opens in a new tab)">Svelte</a> and <a href="https://tailwindcss.com/" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Tailwind CSS (opens in a new tab)">Tailwind CSS</a></p>
+    <p class="coordinates font-normal tracking-tight">Design inspired by <a href="https://open.spotify.com/track/3n6ei1V2Qhsi6BhEhm9opS?si=595a6a316bf04db2" class="font-medium text-slate-400 hover:text-green-300 focus-visible:text-green-300" target="_blank" rel="noreferrer noopener" aria-label="Mirror by Porter Robinson on Spotify (opens in a new tab)">Porter Robinson - Mirror</a></p>
+    <div class="pt-4">
+       <iframe title="mirror" style="border-radius:12px" src="https://open.spotify.com/embed/track/3n6ei1V2Qhsi6BhEhm9opS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>                     </div>
+ </footer>

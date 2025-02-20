@@ -1,3 +1,29 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+h1, header, p, li, span {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+ }
+
+ .coordinates {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-variation-settings:
+       "ROND" 0;
+ }
+
+ .nav-indicator.hover {
+    .nav-dash {
+       background-color: rgb(226 232 240 / var(--tw-bg-opacity, 1));
+       width: 4rem;
+       transition-property: all;
+       transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+       transition-duration: 150ms;
+    }
+
+    .nav-text {
+       color: rgb(226 232 240 / var(--tw-text-opacity, 1));
+    }
+ }
