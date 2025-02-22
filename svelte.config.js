@@ -30,8 +30,8 @@ export default {
 		csp: {
 			directives: {
 			  "default-src": ["self", "open.spotify.com"],
-			  "style-src": ["fonts.googleapis.com"],
-			  "font-src":["fonts.googleapis.com", "fonts.gstatic.com"]
+			  "style-src": ["self", "fonts.googleapis.com"],
+			  "font-src":["self", "fonts.googleapis.com", "fonts.gstatic.com"]
 			},
 		  },
 	}
