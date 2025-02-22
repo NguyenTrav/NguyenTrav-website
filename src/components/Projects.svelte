@@ -29,7 +29,7 @@
                    <p class="mt-2 text-sm leading-normal">Recreation of the 1995 electronic game. The game consists of a 5 by 5 grid of lights. When the game begins, the lights randomly turn on. Pressing any of the lights will toggle it and the adjacent lights. The goal of the game is to switch all the lights off.</p>
                 </div>
                 <img alt="Lights Out board" width="200" height="48"  class="aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1" style="color:transparent" src="{lightsOut}">
-             </div>
+               </div>
           </li>
           <li class="mb-12">
              <div class="group relative grid gap-4 pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
