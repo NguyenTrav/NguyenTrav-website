@@ -2,6 +2,8 @@
 	let { children } = $props();
 	import '../app.css';
 	import Header from "../components/Header.svelte";
+	import '@fontsource-variable/doto';
+	import '@fontsource-variable/inter';
 	import mirror from "../lib/assets/mirror.jpg?enhanced";
 	import { onMount } from "svelte";
    	onMount(async () => {

@@ -2,17 +2,19 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+* {
+   font-family: 'Inter Variable', sans-serif;
+}
+
+
+.coordinates {
+   font-family: 'Doto Variable', sans-serif;
+}
+
 .bg {
    /* background: radial-gradient(at 86% 22%, #021702 0px, transparent 50%), radial-gradient(at 2% 74%, #26004d 0px, transparent 50%), radial-gradient(at 100% 100%, #132f14 0px, transparent 50%), radial-gradient(at 14% 68%, #a1771b 0px, transparent 50%), radial-gradient(at 2% 48%, #8a4095 0px, transparent 50%), radial-gradient(at 12% 14%, #000000 0px, transparent 50%), radial-gradient(at 21% 65%, #021702 0px, transparent 50%), #0b370e; */
    background: radial-gradient(at 86% 22%, #021702 0px, transparent 50%), radial-gradient(at 2% 74%, #261448 0px, transparent 50%), radial-gradient(at 13% 59%, #583522 0px, transparent 50%), radial-gradient(at 96% 91%, #28371f 0px, transparent 50%), radial-gradient(at 2% 48%, #8a4095 0px, transparent 50%), radial-gradient(at 100% 100%, #6d8264 0px, transparent 50%), #021702;   
 }
-
-.coordinates {
-    font-family: "Doto", serif;
-    font-optical-sizing: auto;
-    font-variation-settings:
-       "ROND" 0;
- }
 
  .nav-indicator.hover {
     .nav-dash {
