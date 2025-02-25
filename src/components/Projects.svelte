@@ -1,10 +1,10 @@
 <script>
-   	import todo from "../lib/assets/todo.png";
-      import lightsOut from "../lib/assets/lightsout.png";
+   	import todo from "../lib/assets/todo.webp";
+      import lightsOut from "../lib/assets/lightsout.webp";
 </script>
 
 <section id="projects" class="nav-scroll mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="Personal projects">   
-    <div class="sticky top-0 z-20 -mx-6 mb-4 w-screen px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
+    <div class="sticky top-0 z-20 -mx-6 mb-4 px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
        <h2 class="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only">Projects</h2>
     </div>  
     <div>
@@ -28,7 +28,7 @@
                    </h3>
                    <p class="mt-2 text-sm leading-normal">Recreation of the 1995 electronic game. The game consists of a 5 by 5 grid of lights. When the game begins, the lights randomly turn on. Pressing any of the lights will toggle it and the adjacent lights. The goal of the game is to switch all the lights off.</p>
                 </div>
-                <img alt="Lights Out board" width="200" height="48"  class="aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1" src="{lightsOut}">
+                <img alt="Lights Out board" width="200" height="48" loading="lazy" class="aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1" src="{lightsOut}">
                </div>
           </li>
           <li class="mb-12">
@@ -50,7 +50,7 @@
                    </h3>
                    <p class="mt-2 text-sm leading-normal">A simple todo list app to keep your day organized.</p>
                 </div>
-                <img alt="Todo list" width="200" height="48"  class="aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1" src="{todo}">
+                <img alt="Todo list" width="200" height="48" loading="lazy" class="aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1" src="{todo}">
              </div>
           </li>
        </ul>

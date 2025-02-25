@@ -30,7 +30,7 @@ export default {
 		csp: {
 			directives: {
 			  "default-src": ["self", "open.spotify.com"],
-			  "style-src": ["self", "fonts.googleapis.com", "sha256-S8qMpvofolR8Mpjy4kQvEm7m1q8clzU4dfDH0AmvZjo="],
+			  "style-src": ["self", "fonts.googleapis.com", "sha256-S8qMpvofolR8Mpjy4kQvEm7m1q8clzU4dfDH0AmvZjo=", "unsafe-hashes"],
 			  "font-src":["self", "fonts.googleapis.com", "fonts.gstatic.com", 'data:'],
 			  "base-uri": ["self"]
 			},
