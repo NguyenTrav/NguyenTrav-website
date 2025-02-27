@@ -27,8 +27,8 @@
                          </a>
                       </h3>
                       <p class="mt-2 text-sm leading-normal">
-                         I had the pleasure of designing user experiences that prioritized understanding and respect for individuals facing financial hardship. Built and maintained PRA Pay web app to allow individuals to start their debt recovery journey. The application aimed to reduce stress, offering a more compassionate, supportive experience that encouraged users to take control of their situation. I developed features that allowed users to set up flexible payment plans seamlessly. Lead the development of adding a digital wallet, A/B testing, multi-factor authentication, ACH bank validation and orchestrated releases.
-                      </p>
+                        I had the pleasure of designing user experiences that prioritized compassion and respect for individuals facing financial hardship. The PRA Pay web app allows individuals to begin their debt recovery journey. The application aimed to reduce stress, offering a more understandable, supportive experience that encouraged users to take control of their situation. I developed features that allowed users to seamlessly set-up flexible payment plans. Leading the development of adding a digital wallet, A/B testing, multi-factor authentication, ACH bank validation and orchestrated releases.
+                     </p>
                       <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                          <li class="mr-1.5 mt-2">
                             <div class="flex items-center rounded-full bg-emerald-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300">.NET Framework</div>
@@ -71,8 +71,7 @@
                       </a>
                    </h3>
                    <p class="mt-2 text-sm leading-normal">
-                      Led a project to consult and redesign a local restaurant's website, enhancing its branding and user experience. I collaborated closely with the client to tell their family story and cultural heritage. Upgrading to modern visual design, accessibility standards, mobile responsiveness, and changing needs of customers during the pandemic. The end result was a website that not only reflected the restaurant’s story but could continue serving its community.                                     
-                   </p>
+                     Led a project to consult and redesign a local restaurant's website, enhancing its branding and user experience. I collaborated closely with the client to tell their family story and cultural heritage. Upgrading their site with modern visual design, accessibility standards, mobile responsiveness, and the changing needs of customers during the pandemic. The end result was a website that not only reflected the restaurant's story, but could continue serving its community.                   </p>
                    <ul class="mt-2 flex flex-wrap" aria-label="Related links">
                       <li class="mr-4">
                          <a class="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-green-300 focus-visible:text-green-300" href="https://ricepaper-tasteofvietnam.com/" target="_blank" rel="noreferrer noopener" aria-label="Rice Paper (opens in a new tab)">
@@ -120,8 +119,7 @@
                       </a>
                    </h3>
                    <p class="mt-2 text-sm leading-normal">
-                      Our team supported the firm's Exchange environment for over 25,000 employees. I provided critical support by ensuring the stability, performance, and security of the platform. Worked closely with the Security and Law Department to develop a web app to capture external email threats for risk analysis and contain data spills. Built automation scripts using PowerShell and Microsoft Graph REST API to optimize the infrastructure, and troubleshoot issues that arose to minimize downtime, and migrate on-premise users to the cloud.                                    </p>
-                   <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
+                     Our team supported the firm's Exchange environment for over 25,000 employees. I provided critical support by ensuring the stability, performance, and security of the platform. We worked closely with the Security and Law Department to develop a web app to capture external email threats for risk analysis and data spills. Automation scripts were built using PowerShell and Microsoft Graph REST API to optimize the infrastructure, troubleshoot issues to minimize downtime, and migrate on-premise users to the cloud.                   <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                       <li class="mr-1.5 mt-2">
                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300">PowerShell</div>
                       </li>
@@ -160,8 +158,7 @@
                       </a>
                    </h3>
                    <p class="mt-2 text-sm leading-normal">
-                      Assisted the Exchange team to migration user mailboxes from on-premise to the cloud. I also organized over 1000 email distribution lists. Furthermore, created documentation for processes that increased efficiency and productivity of our Support team.                                    
-                   </p>
+                     Assisted the Exchange team in migrating user mailboxes from on-premise to the cloud. I created a web app allowing employees to organize their email distribution lists, cleaning over 5000 unused distros. Furthermore, created documentation for processes that increased efficiency and productivity of our Support team.                   </p>
                    <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                       <li class="mr-1.5 mt-2">
                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300">PowerShell</div>
@@ -195,8 +192,7 @@
                       </a>
                    </h3>
                    <p class="mt-2 text-sm leading-normal">
-                      Converted the manual testing environment to an automated testing framework, significantly saving time and improving efficiency. As a result, we were able to streamline the testing cycle, delivering faster feedback to developers and accelerating the overall development process, all while maintaining a high level of test coverage and quality.                                    </p>
-                   <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
+                     Converted the manual testing environment to an automated testing framework, significantly saving time and improving efficiency. As a result, we were able to streamline the testing cycle, delivering faster feedback to developers and accelerating the overall development process.                    <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                       <li class="mr-1.5 mt-2">
                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300 ">Java</div>
                       </li>

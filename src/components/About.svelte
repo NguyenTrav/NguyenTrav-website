@@ -12,7 +12,7 @@
           By drawing from art, I bring fresh, imaginative ideas to every project I take on.
        </p>
        <p class="mb-4">
-          Catch me at the theatre watching the latest A24 movie, exploring a local art gallery, traveling with my film camera, or bouldering to get over my fear of heights.
+          Catch me at the theatre watching the latest A24 movie, traveling with my film camera, or bouldering to get over my fear of heights.
        </p>
     </div>
  </section>
