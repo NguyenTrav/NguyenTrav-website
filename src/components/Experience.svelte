@@ -27,7 +27,7 @@
                          </a>
                       </h3>
                       <p class="mt-2 text-sm leading-normal">
-                        I had the pleasure of designing user experiences that prioritized compassion and respect for individuals facing financial hardship. The PRA Pay web app allows individuals to begin their debt recovery journey. The application aimed to reduce stress, offering a more understandable, supportive experience that encouraged users to take control of their situation. I developed features that allowed users to seamlessly set-up flexible payment plans. Leading the development of adding a digital wallet, A/B testing, multi-factor authentication, ACH bank validation and orchestrated releases.
+                        I have the pleasure of designing user experiences that prioritize compassion and respect for individuals facing financial hardship. The PRA Pay web app allows individuals to begin their debt recovery journey. The application aimes to reduce stress, offering a more understandable, supportive experience that encourages users to take control of their situation. I developed features that allowed users to seamlessly set-up flexible payment plans. Leading the development of adding a digital wallet, A/B testing, multi-factor authentication, ACH bank validation and orchestrated releases.
                      </p>
                       <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                          <li class="mr-1.5 mt-2">
