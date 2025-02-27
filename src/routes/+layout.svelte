@@ -27,7 +27,7 @@
 	<div class="pointer-events-none fixed inset-0 z-30 transition duration-300 lg:absolute"></div>
 	<div>
 	   <section>
-		<!-- <div class="bg-red-500 sm:bg-orange-500 md:bg-green-500 lg:bg-blue-500 xl:bg-violet-500">Media Query</div> -->
+		<div class="bg-red-500 sm:bg-orange-500 md:bg-green-500 lg:bg-blue-500 xl:bg-violet-500">Media Query</div>
 		  <enhanced:img class="mx-auto md:hidden w-96" src="{cliffjumpsm}" alt="cliffjump" loading="lazy"/>		  
 		  <enhanced:img class="mx-auto hidden md:block lg:hidden w-1/2" src="{cliffjumpmd}" alt="cliffjump" loading="lazy"/>
 		  <enhanced:img class="mx-auto hidden lg:block lg:w-2/5 xl:w-1/4" src="{cliffjumplg}" alt="cliffjump" loading="lazy"/>

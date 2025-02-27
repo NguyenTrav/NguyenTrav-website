@@ -29,3 +29,9 @@
        color: rgb(226 232 240 / var(--tw-text-opacity, 1));
     }
  }
+
+ @media (hover: none) {
+   .cursor {
+      pointer-events: none;
+    }
+  }

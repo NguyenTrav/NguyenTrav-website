@@ -30,9 +30,12 @@ export default {
 		csp: {
 			directives: {
 			  "default-src": ["self", "open.spotify.com"],
-			  "style-src": ["self", "fonts.googleapis.com", "sha256-S8qMpvofolR8Mpjy4kQvEm7m1q8clzU4dfDH0AmvZjo=", "unsafe-hashes"],
 			  "font-src":["self", "fonts.googleapis.com", "fonts.gstatic.com", 'data:'],
-			  "base-uri": ["self"]
+			  "base-uri": ["self"],
+			  "script-src":["self", "https://*.googletagmanager.com", "nonce-6IMTsKGEqs8yPVMUecixvQ=="],
+			  "style-src": ["self", "fonts.googleapis.com", "sha256-S8qMpvofolR8Mpjy4kQvEm7m1q8clzU4dfDH0AmvZjo=", "unsafe-hashes"],
+			  "img-src": ["self", "https://*.googletagmanager.com", "https://*.google-analytics.com"],
+			  "connect-src": ["self", "https://*.googletagmanager.com", "https://*.google-analytics.com", "https://*.analytics.google.com"],
 			},
 		  },
 	}
