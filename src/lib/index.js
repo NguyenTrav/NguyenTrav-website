@@ -41,7 +41,12 @@ class Spotlight {
     //   console.log("desktop");
     //   console.log(window.innerWidth);
     // }
-          card.style.setProperty('background', `radial-gradient(600px at ${cardX}px ${cardY}px, rgba(124, 58, 237, .25), transparent 10%)`)
+
+      if (!('ontouchstart' in window)) {
+        card.style.setProperty('background', `radial-gradient(600px at ${cardX}px ${cardY}px, rgba(124, 58, 237, .25), transparent 10%)`)
+      } else {
+        console.log("mobile");
+      }
         });
       }
     }
