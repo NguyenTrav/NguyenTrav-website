@@ -8,7 +8,7 @@
           I thrive in environments where art meets strategy, and believe in crafting accessible user experiences that resonate with audiences. 
        </p>  
        <p class="mb-4">
-          My time as a full stack developer, designer and systems engineer bring a unique perspective in addressing human problems through digital mediums. 
+          My time as a full stack developer, designer and systems engineer bring a unique perspective to address human problems through digital mediums. 
           By drawing from art, I bring fresh, imaginative ideas to every project I take on.
        </p>
        <p class="mb-4">
