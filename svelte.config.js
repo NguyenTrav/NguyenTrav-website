@@ -32,7 +32,7 @@ export default {
 			  "default-src": ["self", "open.spotify.com"],
 			  "font-src":["self", "fonts.googleapis.com", "fonts.gstatic.com", 'data:'],
 			  "base-uri": ["self"],
-			  "script-src":["self", "https://*.googletagmanager.com", "nonce-6IMTsKGEqs8yPVMUecixvQ=="],
+			  "script-src":["self", "https://*.googletagmanager.com", "nonce-6IMTsKGEqs8yPVMUecixvQ==", "sha256-2p5K5Q3RJPTM9V561KQIEdf0GtA4MsFHzl6Uw5nZPJU="],
 			  "style-src": ["self", "fonts.googleapis.com", "sha256-S8qMpvofolR8Mpjy4kQvEm7m1q8clzU4dfDH0AmvZjo=", "unsafe-hashes"],
 			  "img-src": ["self", "https://*.googletagmanager.com", "https://*.google-analytics.com"],
 			  "connect-src": ["self", "https://*.googletagmanager.com", "https://*.google-analytics.com", "https://*.analytics.google.com"],
