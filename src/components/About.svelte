@@ -4,15 +4,12 @@
     </div>  
     <div>
        <p class="mb-4">
-          I'm a developer that draws inspiration from films, art, and the people around me. The storytelling, cinematography, and emotional depth of movies have shaped my approach to development and design. 
-          I thrive in environments where art meets strategy, and believe in crafting accessible user experiences that resonate with audiences. 
+         I'm a developer who draws inspiration from films, art, and the people around me. The storytelling, cinematography, and emotional depth of movies have profoundly shaped my approach to development and design. I thrive where art meets strategy, focusing on crafting accessible user experiences that truly resonate with audiences.
        </p>  
        <p class="mb-4">
-          My time as a full stack developer, designer and systems engineer bring a unique perspective to address human problems through digital mediums. 
-          By drawing from art, I bring fresh, imaginative ideas to every project I take on.
+         My experience as a full stack developer, designer, and systems engineer offers a unique perspective for addressing human problems through digital mediums. By drawing from artistic principles, I bring fresh, imaginative ideas to every project.
        </p>
        <p class="mb-4">
-          Catch me at the theatre watching the latest A24 movie, traveling with my film camera, or bouldering to get over my fear of heights.
-       </p>
+         When I'm not coding, you can catch me at the theatre watching the latest A24 movie, traveling with my film camera, or bouldering to get over my fear of heights.       </p>
     </div>
  </section>
