@@ -1,5 +1,5 @@
 <script>
-   import resume from "../lib/assets/resume.pdf";
+   import resume from "../lib/assets/Travis_Nguyen_Resume.pdf";
 </script>
 
 <section id="experience" class="nav-scroll mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="Work experience">
@@ -117,7 +117,7 @@
                       </a>
                    </h3>
                    <p class="mt-2 text-sm leading-normal">
-                     Our team supported the firm's Exchange environment for over 25,000 employees. My role provided critical support, ensuring the platform's stability, performance, and security. I collaborated with the Security and Law Department to develop a web app to capture external email threats for risk analysis and data spill prevention. Furthermore, I built automation scripts using PowerShell and the Microsoft Graph REST API to optimize the infrastructure, rapidly troubleshoot issues to minimize downtime, and facilitate the migration of on-premise users to the cloud.                   
+                     Our team supported the firm's Exchange environment for over 25,000 employees. My role provided critical support, ensuring the platform's stability, performance, and security with a Top Secret clearance. I collaborated with the Security and Law Department to develop a web app to capture external email threats for risk analysis and data spill prevention. Furthermore, I built automation scripts using PowerShell and the Microsoft Graph REST API to optimize the infrastructure, rapidly troubleshoot issues to minimize downtime, and facilitate the migration of on-premise users to the cloud.                   
                      <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                       <li class="mr-1.5 mt-2">
                          <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-green-300">PowerShell</div>
